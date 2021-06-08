@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-tu test
+miest 45
 Use the left arrow to go back!
